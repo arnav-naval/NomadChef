@@ -1,4 +1,4 @@
-# **AI-Enhanced Cultural Cooking Website**<br>
+# **NomadChef: AI-Enhanced Cultural Cooking Website**<br>
 
 ## **Overview**<br>
 Cooking new foods—especially from unfamiliar cuisines—can be daunting. This project aims to make exploring international cuisines both accessible and enjoyable, blending food, culture, and history into a personalized cooking journey.
@@ -8,7 +8,7 @@ Our AI-enhanced website guides users through cooking cultural dishes while provi
 ## **Features**<br>
 
 ### **Account Management**<br>
-Users can create accounts securely, passwords are encrypted using Bcrypt, and sessions are authenticated with JWT tokens.
+Users can create accounts securely and sessions are authenticated with JWT tokens.
 
 During signup, users provide:
 
@@ -21,10 +21,10 @@ A world map links recipes to their countries of origin.
 
 When a user completes a recipe, that country is marked as completed.
 
-The map visually tracks progress through global cuisine.
+Both 3D and 2D interactive visualizations of the globe are supported with integrated progress tracking.
 
 ### **Recipe Generation**<br>
-Recipes are generated based on user input using the Spoonacular API.
+Recipes are generated based on user input using the Spoonacular API and various culinary APIs.
 
 Each recipe includes step-by-step instructions and adapts to user preferences and dietary needs.
 
@@ -34,7 +34,7 @@ AI generates cultural and historical background for each dish and its country of
 ### **Personalized Recommendations**<br>
 After cooking, users complete an optional feedback survey.
 
-Survey results influence future recipe recommendations.
+Survey results influence a robust recipe recommendation system.
 
 A progress bar displays how many countries (out of 195) the user has explored.
 
