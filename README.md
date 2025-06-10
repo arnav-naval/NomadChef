@@ -50,9 +50,6 @@ To get started, read our user manual located here: [User Manual](docs/USER-MANUA
 
 This project was developed by:
 
+- Arnav Naval
 - Caroline Moster 
 - Bryce Rayner
-- Arnav Naval 
-
-Purdue University, May 2025  
-Course: ECE49595
